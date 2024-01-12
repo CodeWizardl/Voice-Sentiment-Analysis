@@ -8,6 +8,7 @@ This project is designed to perform sentiment analysis on incoming calls to a he
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -27,8 +28,8 @@ To set up the project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/CodeWizardl/Voice-Sentiment-Analysis.git
+    cd Voice-Sentiment-Analysis
     ```
 
 2. Install the required dependencies using pip:
@@ -58,6 +59,10 @@ To use the application for sentiment analysis on call recordings, follow these s
 5. Explore the user interface to perform sentiment analysis on incoming calls and gain insights into emotional tones.
 
 **Note:** This project relies on the AssemblyAI API for sentiment analysis. Ensure that you have a valid API key and update the configuration accordingly for seamless functionality.
+
+## Screenshot
+![Main](https://github.com/CodeWizardl/Voice-Sentiment-Analysis/assets/142290678/767ee959-5a63-4acc-b2af-049fcd079c54)
+![Result](https://github.com/CodeWizardl/Voice-Sentiment-Analysis/assets/142290678/980575d4-17ef-43ec-8d8e-1ffc404f581f)
 
 ## Conclusion
 - In conclusion, leveraging the AssemblyAI API for sentiment analysis enhances this project's capability to analyze emotional tones in helpdesk calls. By harnessing this advanced model, the project strives to provide valuable insights into overall sentiment, offering a nuanced understanding of interactions and facilitating informed decision-making for improved customer support experiences.
