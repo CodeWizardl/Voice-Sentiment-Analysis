@@ -23,7 +23,7 @@ headers = {
 }
 
 ## App explanation
-st.title('Sentiment analysis of calls')
+st.title('Sentiment Analysis of Call Recording')
 st.caption('With this app, you can analyze the sentiment of calls by providing call recordings.')
 st.subheader('Submit a call recording.')
 
